@@ -1,0 +1,5 @@
+with node js we can interact javascript on server as well as client side
+
+Node js can generate dynamic content page
+it can collect from data
+can add delete modify in your db
